@@ -7,7 +7,7 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 26
-        versionCode 27
+        versionCode 28
         versionName "1.0"
         applicationId "com.tpcstld.twozerogame"
     }
